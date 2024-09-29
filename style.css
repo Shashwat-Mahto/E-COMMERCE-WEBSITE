@@ -8,7 +8,8 @@ body{
     font-family: 'Prompt', sans-serif;
 }
 .header{
-    background: radial-gradient(#fff ,#ffd6d6);
+    background: radial-gradient(#fff, #181818);
+
 }
 .header .row{
     margin: 70px;
